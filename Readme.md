@@ -9,3 +9,5 @@ Hello world
 This project falls under the GNU 2.0 licence
 
 ## Next section... :-)
+
+Lorem ipsum dolor sit, consectetur adipiscing elit.
