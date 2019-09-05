@@ -7,3 +7,5 @@ Hello world
 ## Licensing
 
 This project falls under the GNU 2.0 licence
+
+## Next section... :-)
